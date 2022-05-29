@@ -43,6 +43,10 @@ if((millis() - timeEndR) >= 1000){
     timeEndR = millis();  
 }
 ~~~
-  
 
+<br><hr>
+<div align="left">
+  <img src="https://licensebuttons.net/l/zero/1.0/80x15.png" />
+</div>
+<br/> 
 
