@@ -24,7 +24,8 @@ Montamos o seguinte esquema na protoboard.
 Com o esquema montado na Protoboard, grave o Sketch ppa.ino para o Arduino.
 
 Se a intenção for deixar um led ligado apenas passando o ímã pelo sensor,<br> 
-podemos trocar o loop pelo código abaixo e declarar a variável "int estadoSensor".
+podemos trocar o loop pelo código abaixo e declarar a variável "int estadoSensor" alterando<br>
+o estado "ligado/desligado" da chave.
 
 ~~~
 if((millis() - timeEndR) >= 1000){
