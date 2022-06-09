@@ -11,7 +11,7 @@ Componentes:
 + Uma protoboard 
 + Um sensor do tipo PPA 
 + Um Arduino ou Esp
-+ Fiospara conexão
++ Fios para conexão
 + Um led 
 + Dois resistores de 1k 
 
